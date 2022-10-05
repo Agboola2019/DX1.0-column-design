@@ -1,34 +1,7 @@
-/* *** common fix starts here *** */
 
-margin: 0;
-padding: 0;
-
-
-
-
-/* *** common fix ends here *** */
-
-.firstsection{
+.firstsection {
     height: 430px;
-    border: 3px solid black; display: flex;}
-
-    .firstsection-leftdiv {
-        width: 50%;
-        height: 100%;
-        background: var(--gray-color);
-    }
-
-.firstsection-rightdiv {
-    width: 50%;
-    height: 100%;
-    background: var(--linear-gradient);
-    background-size: cover;
-    background-position: bottom left; 
+    border: 3px solid black;
 }
-
-/* *** first section starts here *** */
-
-
-/* *** first section starts here *** */
 
 
